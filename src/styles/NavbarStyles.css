@@ -1,0 +1,50 @@
+.Nav-Component {
+  display: flex;
+  justify-content: space-around;
+  gap: 20px;
+  width: 100%;
+  /* align-items: center; */
+  height: 60px;
+  padding: 20px;
+}
+.Nav-section-top {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.Nav-section-mid {
+  margin-left: 30px;
+}
+.Nav-section-bot {
+  display: flex;
+  gap: 20px;
+}
+input {
+  height: 25px;
+  border: none;
+  background-color: aliceblue;
+  border-radius: 15px;
+  padding: 15px;
+  width: 300px;
+}
+ul {
+  display: flex;
+  list-style: none;
+  gap: 25px;
+  align-items: center;
+}
+.btn-login {
+  background-color: pink;
+  color: white;
+  width: 100px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.btn-subrice {
+  background-color: palevioletred;
+  color: white;
+  width: 100px;
+  height: 40px;
+}

@@ -1,0 +1,89 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "image": "/image/italian_style_tomato_salad.png",
+      "title": "Ảnh 1",
+      "time": "11 minutes"
+    },
+    {
+      "id": 2,
+      "image": "/image/Vegetable and shrimp spaghetti.png",
+      "title": "Ảnh 2",
+      "time": "11 minutes"
+    },
+    {
+      "id": 3,
+      "image": "/image/salad_with_cabbage_and_shrimp.png",
+      "title": "Ảnh 3",
+      "time": "11 minutes"
+    },
+    {
+      "id": 4,
+      "image": "/image/Snack cakes.png",
+      "title": "Ảnh 4",
+      "time": "12 minutes"
+    }
+  ],
+  "recipes-video": [
+    {
+      "id": 5,
+      "image": "/image/italian_style_tomato_salad.png",
+      "title": "Ảnh 5",
+      "time": "11 minutes"
+    },
+    {
+      "id": 6,
+      "image": "/image/Vegetable and shrimp spaghetti.png",
+      "title": "Ảnh 6",
+      "time": "11 minutes"
+    },
+    {
+      "id": 7,
+      "image": "/image/salad_with_cabbage_and_shrimp.png",
+      "title": "Ảnh 7",
+      "time": "11 minutes"
+    },
+    {
+      "id": 8,
+      "image": "/image/Snack cakes.png",
+      "title": "Ảnh 8",
+      "time": "12 minutes"
+    }
+  ],
+  "editor": [
+    {
+      "id": 1,
+      "image": "/image/italian_style_tomato_salad.png",
+      "title": "Stuffed sticky rice ball",
+      "time": "34 minutes",
+      "author": "Jennifer King",
+      "description": "Stuffed sticky rice balls: A delightful Asian treat with chewy, glutinous rice and a flavorful surprise filling..."
+    },
+    {
+      "id": 2,
+      "image": "/image/Vegetable and shrimp spaghetti.png",
+      "title": "Vegetable and Shrimp Spaghetti",
+      "time": "25 minutes",
+      "author": "John Doe",
+      "description": "A healthy and delicious spaghetti recipe with fresh vegetables and shrimp."
+    },
+
+    {
+      "id": 3,
+      "image": "/image/salad_with_cabbage_and_shrimp.png",
+      "title": "Salad with Cabbage and Shrimp",
+      "time": "15 minutes",
+      "author": "Alice Smith",
+      "description": "A refreshing salad made with cabbage, shrimp, and a tangy dressing."
+    },
+    {
+      "id": 4,
+      "image": "/image/Snack cakes.png",
+      "title": "Snack Cakes",
+      "time": "20 minutes",
+      "author": "Bob Johnson",
+      "description": "Delicious snack cakes perfect for any occasion."
+    }
+  ]
+}

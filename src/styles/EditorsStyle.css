@@ -1,0 +1,71 @@
+.editors-main {
+  padding: 20px;
+  text-align: center;
+}
+
+.editors-main h2 {
+  font-size: 2rem;
+  color: #e91e63;
+}
+
+.editors-main p {
+  font-size: 1rem;
+  color: #555;
+  margin-bottom: 20px;
+}
+
+.editors-content {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+}
+
+.editors-card {
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  text-align: left;
+  padding: 15px;
+}
+
+.editors-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+.editors-card h3 {
+  font-size: 1.2rem;
+  margin: 10px 0;
+}
+
+.editors-card p {
+  font-size: 0.9rem;
+  color: #777;
+}
+
+.editors-meta {
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+}
+
+.editors-meta span {
+  font-weight: bold;
+  color: #333;
+}
+
+.btn-save {
+  margin-top: 10px;
+  background: #e91e63;
+  color: #fff;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btn-save:hover {
+  background: #d81b60;
+}
