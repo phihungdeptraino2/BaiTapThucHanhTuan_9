@@ -9,12 +9,12 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  gap: 20px;
+  gap: 80px;
 }
 
-.footer-about {
+/* .footer-about {
   flex: 1 1 300px;
-}
+} */
 
 .footer-about h3 {
   font-size: 1.2rem;
@@ -53,8 +53,11 @@
 
 .footer-links {
   display: flex;
-  flex: 2 1 600px;
+  flex: 1;
+  gap: 40px;
+  flex-wrap: wrap;
   justify-content: space-between;
+  margin-left: 500px;
 }
 
 .footer-links h3 {
@@ -70,6 +73,7 @@
 .footer-links ul li {
   margin-bottom: 5px;
   color: #ccc;
+  padding: 10px;
 }
 
 .footer-links ul li:hover {

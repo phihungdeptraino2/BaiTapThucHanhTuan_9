@@ -27,7 +27,7 @@ input {
   padding: 15px;
   width: 300px;
 }
-ul {
+.Nav-section-mid ul {
   display: flex;
   list-style: none;
   gap: 25px;
